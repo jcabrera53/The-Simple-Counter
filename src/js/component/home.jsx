@@ -23,6 +23,5 @@ const Home = (props) => {
 	);
 };
 
-setInterval(function(){},1000);
 
 export default Home;
